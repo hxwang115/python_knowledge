@@ -1,5 +1,5 @@
 # Python学习文件
-    ## 2
+### 2
 * 数据结构
     ```
     data_struct
