@@ -1,4 +1,5 @@
-##Python学习文件
+# Python学习文件
+### 2
 * 数据结构
     ```
     data_struct
@@ -41,3 +42,8 @@
     >- sql 语句
     >- Mysql 基本操作
     >- pymysql用法
+* git 和 github
+    ```
+    project
+    ```
+    >- git 命令和操作
